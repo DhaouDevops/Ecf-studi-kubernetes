@@ -7,7 +7,7 @@ terraform.tfvars
 # OS X files
 .history
 .DS_Store
-
+terraform.tfvars
 # lambda zip files
 lambda.zip
 
